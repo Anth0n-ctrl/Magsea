@@ -4,3 +4,4 @@ A description of my imaginary world, Magsea. Compact with a magic system, lore, 
 - [Beastiary](Beastiary.md)
 - [Characters](Characters.md)
 - [Magic System](Magic_System.md)
+'code'
